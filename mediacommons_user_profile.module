@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the user profile feature.
+ */
+
+include_once 'mediacommons_user_profile.features.inc';
